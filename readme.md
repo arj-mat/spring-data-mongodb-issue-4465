@@ -2,3 +2,7 @@
 This repository showcases the issue reported at https://github.com/spring-projects/spring-data-mongodb/issues/4465.
 
 Test files: [TestWithAutoIndexCreation.java](src/test/java/com/example/demo/TestWithAutoIndexCreation.java) (failling) and [TestWithoutAutoIndexCreation.java](src/test/java/com/example/demo/TestWithoutAutoIndexCreation.java) (working).
+
+JDK 17.
+
+Spring Boot 3.1.2.
