@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: spring-data-mongodb-issue-4465
+  data:
+    mongodb:
+      uri: mongodb://localhost/spring-data-mongodb-issue-4465
