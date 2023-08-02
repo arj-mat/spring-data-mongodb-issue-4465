@@ -11,6 +11,5 @@ public class Order {
 	private Integer category;
 
 	private String description;
-
 	private Integer userId;
 }
